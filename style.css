@@ -7,8 +7,11 @@ h1{
   text-align: center;
 }
 section#featured-property{
-  width: 70%;
+  width: 900px;
   margin: auto;
+}
+section#featured-property img{
+  width: 900px;
 }
 section#featured-property figcaption{
   font-size: 14px;
