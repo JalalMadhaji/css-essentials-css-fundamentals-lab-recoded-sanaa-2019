@@ -38,5 +38,7 @@ nav a{
 section#details div{
   display: block;;
   float: left;
+  text-align: center;
+  background: red;
   width: 25%;
 }
