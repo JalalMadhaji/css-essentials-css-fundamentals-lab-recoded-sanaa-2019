@@ -10,3 +10,10 @@ section#featured-property{
   width: 70%;
   margin: auto;
 }
+nav{
+  text-align: center;
+}
+nav a{
+  padding: 0 10px;
+  background: grey;
+}
