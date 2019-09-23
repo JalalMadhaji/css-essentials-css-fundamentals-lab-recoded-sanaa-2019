@@ -10,6 +10,9 @@ section#featured-property{
   width: 70%;
   margin: auto;
 }
+section#featured-property figcaption{
+  font-size: 14px;
+}
 nav{
   text-align: center;
 }
