@@ -32,7 +32,7 @@ nav{
 }
 nav a{
   padding: 0 10px;
-  background: red;
+  background: grey;
 }
 section#details div{
   display: block;;
