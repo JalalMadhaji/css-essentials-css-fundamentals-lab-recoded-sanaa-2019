@@ -12,6 +12,7 @@ section#featured-property{
 }
 section#featured-property figcaption{
   font-size: 14px;
+  text-align: center;
 }
 nav{
   text-align: center;
