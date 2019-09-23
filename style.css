@@ -6,6 +6,7 @@ body {
 h1{
   text-align: center;
 }
-img{
-  margin: auto;;
+section#featured-property{
+  width: 70%;
+  margin: auto;
 }
