@@ -38,4 +38,5 @@ nav a{
 section#details div{
   display: block;;
   float: left;
+  width: 25%;
 }
